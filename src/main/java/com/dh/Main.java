@@ -5,4 +5,4 @@ public class Main {
         CoronaDesinfector desinfector = new CoronaDesinfector();
         desinfector.start(new Room());
     }
-}
+ }
